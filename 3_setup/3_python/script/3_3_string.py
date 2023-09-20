@@ -1,0 +1,1 @@
+print('answer = ' + str(100))
